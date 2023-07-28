@@ -1,0 +1,7 @@
+"""
+1. git add .    [adds files to staging area] step-1
+2. git commit -m "message"  [commits files to local repository]
+3.git push origin main [pushes to github repo]
+"""
+def main():
+    pass
