@@ -1,2 +1,6 @@
 1)sum of all elements in an array [1,2,3,4,5,6,7,8]
+<<<<<<< HEAD
 
+=======
+2)find the no of elements present in an array [3,12,56,31,9,0,21]   - [31-07-2023]
+>>>>>>> abe096a8c99fa7854f470cd1ba5e911f988ccf8f
